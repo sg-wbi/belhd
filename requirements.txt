@@ -1,0 +1,12 @@
+torchmetrics==1.1.1
+transformers=4.32.0
+torchmetrics=1.1.0
+h5py==3.7.0
+faiss-cpu==1.7.3
+accelerate==0.22.0
+hydra-core==1.2.0
+pandas==1.4.1
+tensorboard==2.11.0
+zarr==2.14.2
+scikit-learn==1.2.2
+fsspec

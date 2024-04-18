@@ -1,0 +1,15 @@
+ab3p_path: '/vol/home-vol3/wbi/gardasam/projects/belbert/Ab3P'
+belb_dir : '/vol/home-vol3/wbi/gardasam/data/belb'
+tokenizers_dir : '/vol/fob-wbia-vol1/wbi/gardasam/data/belb-tokenized/tokenizers'
+
+corpora_dir: '/vol/fob-wbia-vol1/wbi/gardasam/data/belb-tokenized/corpora/vs_pubtator'
+exp_dir : '/vol/fob-wbia-vol1/wbi/gardasam/data/belb-dr/vs_pubtator'
+###########DISAMBIGUATED######################
+kbs_dir : '/vol/fob-wbia-vol1/wbi/gardasam/data/belb-tokenized/dkbs'
+########################################
+
+results_dir: 'results'
+
+index_batch_size : 2048
+index_shard_size : 1e7
+load_last_model: false

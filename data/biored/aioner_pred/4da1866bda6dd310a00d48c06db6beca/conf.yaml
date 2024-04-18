@@ -1,0 +1,39 @@
+add_foreign_annotations: false
+annotations_file: null
+data_dir: /vol/fob-wbia-vol1/wbi/gardasam/src/AIONER/output
+entity_type: CELL_LINE
+entity_type_map:
+  DiseaseOrPhenotypicFeature: DISEASE
+  ChemicalEntity: CHEMICAL
+  OrganismTaxon: SPECIES
+  GeneOrGeneProduct: GENE
+  SequenceVariant: VARIANT
+  CellLine: CELL_LINE
+  Disease: DISEASE
+  Chemical: CHEMICAL
+  Species: SPECIES
+  Gene: GENE
+  Variant: VARIANT
+entity_types:
+- DISEASE
+- CHEMICAL
+- SPECIES
+- GENE
+- CELL_LINE
+foreign_entity_types: null
+local: true
+max_mentions: -1
+mention_markers: true
+name: biored
+native_foreign_annotations: false
+pmc: false
+sentences: true
+splits:
+- TEST
+subset: null
+subsets: null
+title_abstract: true
+base_url: https://ftp.ncbi.nlm.nih.gov/pub/lu/BioRED/
+files:
+- BIORED.zip
+extract: true

@@ -1,0 +1,40 @@
+##############################
+lm: 'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext'
+# lm: 'dmis-lab/biobert-v1.1'
+# lm: '/glusterfs/dfs-gfs-dist/gardasam/data/models/pubmedbert-longformer-4096'
+model_type: 'bert'
+sentences : true
+##############################
+train: null 
+dev: null
+test: null
+seed: 42
+train_on_dev: false
+train_with_dev: false
+kb_subset: null 
+mention_markers: true
+add_foreign_annotations: false
+max_mentions: -1
+abbres: false
+exclude_context: false
+run_id: null
+global_candidates: false
+foreign_attention: false
+project: 128
+lr: 1e-5
+epsilon: 1e-8
+weight_decay: 0.01
+gradient_accumulation_steps: 8
+lr_scheduler: constant
+warmup_steps: 0
+max_epochs: 20
+query_side_ft: false
+mixed_precision: 'no'
+run_dir: null
+train_topk: 16
+eval_topk: 64
+max_len_name: 256 #128 for MedMentions: Counter({'128': 7935955, '256': 3603, '>256': 1672})
+index_type: 'flat'
+max_global_candidates: 16
+refresh_index_every_n: null
+predict: 'last'

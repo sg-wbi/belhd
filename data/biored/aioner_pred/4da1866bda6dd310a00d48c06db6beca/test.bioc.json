@@ -1,0 +1,2938 @@
+{
+ "bioctype": "BioCCollection",
+ "source": "",
+ "date": "2024-04-11",
+ "key": "",
+ "version": "1.0",
+ "infons": {},
+ "documents": [
+  {
+   "bioctype": "BioCDocument",
+   "id": "15485686",
+   "infons": {},
+   "passages": [
+    {
+     "bioctype": "BioCPassage",
+     "offset": 0,
+     "infons": {
+      "id": 0,
+      "type": "title"
+     },
+     "text": "A novel SCN5A mutation manifests as a malignant form of long QT syndrome with perinatal onset of tachycardia/bradycardia.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 122,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "OBJECTIVE: Congenital long QT syndrome (LQTS) with in utero onset of the rhythm disturbances is associated with a poor prognosis.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 252,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "In this study we investigated a newborn patient with fetal bradycardia, 2:1 atrioventricular block and ventricular tachycardia soon after birth.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 397,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "METHODS: Mutational analysis and DNA sequencing were conducted in a newborn.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 474,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "The 2:1 atrioventricular block improved to 1:1 conduction only after intravenous lidocaine infusion or a high dose of mexiletine, which also controlled the ventricular tachycardia.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 655,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "RESULTS: A novel, spontaneous LQTS-3 mutation was identified in the transmembrane segment 6 of domain IV of the Na(v)1.5 cardiac sodium channel, with a G-->A substitution at codon 1763, which changed a valine (GTG) to a methionine (ATG).",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 893,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "The proband was heterozygous but the mutation was absent in the parents and the sister.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 981,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Expression of this mutant channel in [MS] tsA201 [ME] mammalian cells by site-directed mutagenesis revealed a persistent tetrodotoxin-sensitive but lidocaine-resistant current that was associated with a positive shift of the steady-state inactivation curve, steeper activation curve and faster recovery from inactivation.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "0",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "4daad9966ab443f28c20e3cb919e0fba",
+        "original": {
+         "start": 1018,
+         "end": 1024,
+         "text": "tsA201",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "tsA201",
+       "locations": [
+        {
+         "offset": 1023,
+         "length": 6
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1303,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "We also found a similar electrophysiological profile for the neighboring V1764M mutant.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1391,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "But, the other neighboring I1762A mutant had no persistent current and was still associated with a positive shift of inactivation.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1522,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "CONCLUSIONS: These findings suggest that the Na(v)1.5/V1763M channel dysfunction and possible neighboring mutants contribute to a persistent inward current due to altered inactivation kinetics and clinically congenital LQTS with perinatal onset of arrhythmias that responded to lidocaine and mexiletine.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    }
+   ],
+   "annotations": [],
+   "relations": []
+  },
+  {
+   "bioctype": "BioCDocument",
+   "id": "16046395",
+   "infons": {},
+   "passages": [
+    {
+     "bioctype": "BioCPassage",
+     "offset": 0,
+     "infons": {
+      "id": 0,
+      "type": "title"
+     },
+     "text": "Allelic expression imbalance of human mu opioid receptor (OPRM1) caused by variant A118G.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 90,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "As a primary target for opioid drugs and peptides, the mu opioid receptor (OPRM1) plays a key role in pain perception and addiction.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 223,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Genetic variants of OPRM1 have been implicated in predisposition to drug addiction, in particular the single nucleotide polymorphism A118G, leading to an N40D substitution, with an allele frequency of 10-32%, and uncertain functions.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 457,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "We have measured allele-specific mRNA expression of OPRM1 in human autopsy brain tissues, using A118G as a marker.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 572,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "In 8 heterozygous samples measured, the A118 mRNA allele was 1.5-2.5-fold more abundant than the G118 allele.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 682,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Transfection into [MS] Chinese hamster ovary [ME] cells of a cDNA representing only the coding region of OPRM1, carrying adenosine, guanosine, cytidine, and thymidine in position 118, resulted in 1.5-fold lower mRNA levels only for OPRM1-G118, and more than 10-fold lower OPRM1 protein levels, measured by Western blotting and receptor binding assay.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "0",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "21c3a903a2e070a8bc104a7c4929bef5",
+        "original": {
+         "start": 700,
+         "end": 721,
+         "text": "Chinese hamster ovary",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "Chinese hamster ovary",
+       "locations": [
+        {
+         "offset": 705,
+         "length": 21
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1033,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "After transfection and inhibition of transcription with actinomycin D, analysis of mRNA turnover failed to reveal differences in mRNA stability between A118 and G118 alleles, indicating a defect in transcription or mRNA maturation.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1265,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "These results indicate that OPRM1-G118 is a functional variant with deleterious effects on both mRNA and protein yield.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1385,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Clarifying the functional relevance of polymorphisms associated with susceptibility to a complex disorder such as drug addiction provides a foundation for clinical association studies.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    }
+   ],
+   "annotations": [],
+   "relations": []
+  },
+  {
+   "bioctype": "BioCDocument",
+   "id": "22369755",
+   "infons": {},
+   "passages": [
+    {
+     "bioctype": "BioCPassage",
+     "offset": 0,
+     "infons": {
+      "id": 0,
+      "type": "title"
+     },
+     "text": "Reciprocal effects of NNK and SLURP-1 on oncogene expression in target epithelial cells.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 89,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "AIMS: To elucidate how the nicotinic acetylcholine receptors expressed on bronchial and oral epithelial cells targeted by the tobacco nitrosamine (4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone) (NNK) facilitate carcinogenic transformation.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 330,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "MAIN METHODS: Since NNK-dependent transformation can be abolished by the nicotinergic secreted mammalian Ly-6/urokinase plasminogen activator receptor related protein-1 (SLURP-1), we compared effects of NNK and recombinant (r)SLURP-1 on the expression of genes related to tumorigenesis in human immortalized bronchial and oral epithelial cell lines [MS] BEP2D [ME] and [MS] Het-1A [ME], respectively.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "0",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "284f367ffbfc5128a29867085b6e44d6",
+        "original": {
+         "start": 679,
+         "end": 684,
+         "text": "BEP2D",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "BEP2D",
+       "locations": [
+        {
+         "offset": 684,
+         "length": 5
+        }
+       ]
+      },
+      {
+       "id": "1",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "c2d3bf3946ab1dd3f31672aea2c63217",
+        "original": {
+         "start": 689,
+         "end": 695,
+         "text": "Het-1A",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "Het-1A",
+       "locations": [
+        {
+         "offset": 704,
+         "length": 6
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 731,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "KEY FINDINGS: NNK stimulated expression of oncogenic genes, including MYB and PIK3CA in [MS] BEP2D [ME], ETS1, NRAS and SRC in [MS] Het-1A [ME], and AKT1, KIT and RB1 in both cell types, which could be abolished in the presence of rSLURP-1.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "2",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "cbad6ab88d91e786c8b7cfad5f2af1ed",
+        "original": {
+         "start": 799,
+         "end": 804,
+         "text": "BEP2D",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "BEP2D",
+       "locations": [
+        {
+         "offset": 824,
+         "length": 5
+        }
+       ]
+      },
+      {
+       "id": "3",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "51ab950bb9027ee55f0c0213c00e900b",
+        "original": {
+         "start": 828,
+         "end": 834,
+         "text": "Het-1A",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "Het-1A",
+       "locations": [
+        {
+         "offset": 863,
+         "length": 6
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 972,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Other cancer-related genes whose upregulation by NNK was abolishable by rSLURP-1 were the growth factors EGF in [MS] BEP2D [ME] cells and HGF in [MS] Het-1A [ME] cells, and the transcription factors CDKN2A and STAT3 ([MS] Het-1A [ME] only).",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "4",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "66751cd62ccf3d2ce3f1970733cd0fd9",
+        "original": {
+         "start": 1044,
+         "end": 1049,
+         "text": "BEP2D",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "BEP2D",
+       "locations": [
+        {
+         "offset": 1089,
+         "length": 5
+        }
+       ]
+      },
+      {
+       "id": "5",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "e18363e5a6f500ad9b5d0d10f7d8323c",
+        "original": {
+         "start": 1067,
+         "end": 1073,
+         "text": "Het-1A",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "Het-1A",
+       "locations": [
+        {
+         "offset": 1122,
+         "length": 6
+        }
+       ]
+      },
+      {
+       "id": "6",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "bd5a67ddf773a07d660fbf7526a00e5f",
+        "original": {
+         "start": 1129,
+         "end": 1135,
+         "text": "Het-1A",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "Het-1A",
+       "locations": [
+        {
+         "offset": 1194,
+         "length": 6
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1213,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "NNK also upregulated the anti-apoptotic BCL2 (Het-1A) and downregulated the pro-apoptotic TNF (Het-1A), BAX and CASP8 (BEP2D), all of which could be abolished, in part, by rSLURP-1.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1395,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "NNK decreased expression of the CTNNB1 gene encoding the intercellular adhesion molecule beta-catenin (BEP2D), as well as tumor suppressors CDKN3 and FOXD3 in [MS] BEP2D [ME] cells and SERPINB5 in [MS] Het-1A [ME] cells.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "7",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "44e44992462d6317ee2f68a529d4543c",
+        "original": {
+         "start": 1484,
+         "end": 1489,
+         "text": "BEP2D",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "BEP2D",
+       "locations": [
+        {
+         "offset": 1559,
+         "length": 5
+        }
+       ]
+      },
+      {
+       "id": "8",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "ed4ccb483f8b6bb89a3e3449e55fac76",
+        "original": {
+         "start": 1512,
+         "end": 1518,
+         "text": "Het-1A",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "Het-1A",
+       "locations": [
+        {
+         "offset": 1597,
+         "length": 6
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1616,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "These pro-oncogenic effects of NNK were abolished by rSLURP-1 that also upregulated RUNX3.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1707,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "SIGNIFICANCE: The obtained results identified target genes for both NNK and SLURP-1 and shed light on the molecular mechanism of their reciprocal effects on tumorigenic transformation of bronchial and oral epithelial cells.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    }
+   ],
+   "annotations": [],
+   "relations": []
+  },
+  {
+   "bioctype": "BioCDocument",
+   "id": "27959387",
+   "infons": {},
+   "passages": [
+    {
+     "bioctype": "BioCPassage",
+     "offset": 0,
+     "infons": {
+      "id": 0,
+      "type": "title"
+     },
+     "text": "Long-term exposure of [MS] MCF-7 [ME] breast cancer cells to ethanol stimulates oncogenic features.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "0",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "36add64963a09fe5cae936ca60114ee8",
+        "original": {
+         "start": 22,
+         "end": 27,
+         "text": "MCF-7",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "MCF-7",
+       "locations": [
+        {
+         "offset": 27,
+         "length": 5
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 100,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Alcohol consumption is a risk factor for breast cancer.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 156,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Little is known regarding the mechanism, although it is assumed that acetaldehyde or estrogen mediated pathways play a role.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 281,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "We previously showed that long-term exposure to 2.5 mM ethanol (blood alcohol ~0.012%) of [MS] MCF-12A [ME], a human normal epithelial breast cell line, induced epithelial mesenchymal transition (EMT) and oncogenic transformation.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "1",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "951af68ec046914a07f5823fc64dd53b",
+        "original": {
+         "start": 361,
+         "end": 368,
+         "text": "MCF-12A",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "MCF-12A",
+       "locations": [
+        {
+         "offset": 376,
+         "length": 7
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 512,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "In this study, we investigated in the human breast cancer cell line [MS] MCF-7 [ME], whether a similar exposure to ethanol at concentrations ranging up to peak blood levels in heavy drinkers would increase malignant progression.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "2",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "0707dcbee8827f027af9a4ce6553cd90",
+        "original": {
+         "start": 560,
+         "end": 565,
+         "text": "MCF-7",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "MCF-7",
+       "locations": [
+        {
+         "offset": 585,
+         "length": 5
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 741,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Short-term (1-week) incubation to ethanol at as low as 1-5 mM (corresponding to blood alcohol concentration of ~0.0048-0.024%) upregulated the stem cell related proteins Oct4 and Nanog, but they were reduced after exposure at 25 mM. Long-term (4-week) exposure to 25 mM ethanol upregulated the Oct4 and Nanog proteins, as well as the malignancy marker Ceacam6.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1102,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "DNA microarray analysis in cells exposed for 1 week showed upregulated expression of metallothionein genes, particularly MT1X.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1229,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Long-term exposure upregulated expression of some malignancy related genes (STEAP4, SERPINA3, SAMD9, GDF15, KRT15, ITGB6, TP63, and PGR, as well as the CEACAM, interferon related, and HLA gene families).",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1433,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Some of these findings were validated by RT-PCR.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1482,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "A similar treatment also modulated numerous microRNAs (miRs) including one regulator of Oct4 as well as miRs involved in oncogenesis and/or malignancy, with only a few estrogen-induced miRs.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1673,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Long-term 25 mM ethanol also induced a 5.6-fold upregulation of anchorage-independent growth, an indicator of malignant-like features.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1808,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Exposure to acetaldehyde resulted in little or no effect comparable to that of ethanol.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1896,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "The previously shown alcohol induction of oncogenic transformation of normal breast cells is now complemented by the current results suggesting alcohol's potential involvement in malignant progression of breast cancer.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    }
+   ],
+   "annotations": [],
+   "relations": []
+  },
+  {
+   "bioctype": "BioCDocument",
+   "id": "26847345",
+   "infons": {},
+   "passages": [
+    {
+     "bioctype": "BioCPassage",
+     "offset": 0,
+     "infons": {
+      "id": 0,
+      "type": "title"
+     },
+     "text": "Transgelin increases metastatic potential of colorectal cancer cells in vivo and alters expression of genes involved in cell motility.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 135,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "BACKGROUND: Transgelin is an actin-binding protein that promotes motility in normal cells.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 226,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Although the role of transgelin in cancer is controversial, a number of studies have shown that elevated levels correlate with aggressive tumor behavior, advanced stage, and poor prognosis.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 416,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Here we sought to determine the role of transgelin more directly by determining whether experimental manipulation of transgelin levels in colorectal cancer (CRC) cells led to changes in metastatic potential in vivo.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 632,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "METHODS: Isogenic CRC cell lines that differ in transgelin expression were characterized using in vitro assays of growth and invasiveness and a mouse tail vein assay of experimental metastasis.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 826,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Downstream effects of transgelin overexpression were investigated by gene expression profiling and quantitative PCR.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 943,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "RESULTS: Stable overexpression of transgelin in [MS] RKO [ME] cells, which have low endogenous levels, led to increased invasiveness, growth at low density, and growth in soft agar.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "0",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "aa8a82161064a9f0e202091f66a7c372",
+        "original": {
+         "start": 991,
+         "end": 994,
+         "text": "RKO",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "RKO",
+       "locations": [
+        {
+         "offset": 996,
+         "length": 3
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1125,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Overexpression also led to an increase in the number and size of lung metastases in the mouse tail vein injection model.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1246,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Similarly, attenuation of transgelin expression in [MS] HCT116 [ME] cells, which have high endogenous levels, decreased metastases in the same model.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "1",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "bfa517685a166d35275416bdd55150ea",
+        "original": {
+         "start": 1287,
+         "end": 1293,
+         "text": "HCT116",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "HCT116",
+       "locations": [
+        {
+         "offset": 1302,
+         "length": 6
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1396,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Investigation of mRNA expression patterns showed that transgelin overexpression altered the levels of approximately 250 other transcripts, with over-representation of genes that affect function of actin or other cytoskeletal proteins.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1631,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Changes included increases in HOOK1, SDCCAG8, ENAH/Mena, and TNS1 and decreases in EMB, BCL11B, and PTPRD.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1738,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "CONCLUSIONS: Increases or decreases in transgelin levels have reciprocal effects on tumor cell behavior, with higher expression promoting metastasis.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1888,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Chronic overexpression influences steady-state levels of mRNAs for metastasis-related genes.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    }
+   ],
+   "annotations": [],
+   "relations": []
+  },
+  {
+   "bioctype": "BioCDocument",
+   "id": "15818664",
+   "infons": {},
+   "passages": [
+    {
+     "bioctype": "BioCPassage",
+     "offset": 0,
+     "infons": {
+      "id": 0,
+      "type": "title"
+     },
+     "text": "Association of sporadic chondrocalcinosis with a -4-basepair G-to-A transition in the 5'-untranslated region of ANKH that promotes enhanced expression of ANKH protein and excess generation of extracellular inorganic pyrophosphate.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 231,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "OBJECTIVE: Certain mutations in ANKH, which encodes a multiple-pass transmembrane protein that regulates inorganic pyrophosphate (PPi) transport, are linked to autosomal-dominant familial chondrocalcinosis.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 438,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "This study investigated the potential for ANKH sequence variants to promote sporadic chondrocalcinosis.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 542,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "METHODS: ANKH variants identified by genomic sequencing were screened for association with chondrocalcinosis in 128 patients with severe sporadic chondrocalcinosis or pseudogout and in ethnically matched healthy controls.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 764,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "The effects of specific variants on expression of common markers were evaluated by in vitro transcription/translation.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 883,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "The function of these variants was studied in transfected human immortalized [MS] CH-8 [ME] articular chondrocytes.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "0",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "17d4df5e8cb9cd30a0e1b840bb2e6493",
+        "original": {
+         "start": 960,
+         "end": 964,
+         "text": "CH-8",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "CH-8",
+       "locations": [
+        {
+         "offset": 965,
+         "length": 4
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 999,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "RESULTS: Sporadic chondrocalcinosis was associated with a G-to-A transition in the ANKH 5'-untranslated region (5'-UTR) at 4 bp upstream of the start codon (in homozygotes of the minor allele, genotype relative risk 6.0, P = 0.0006; overall genotype association P = 0.02).",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1272,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "This -4-bp transition, as well as 2 mutations previously linked with familial and sporadic chondrocalcinosis (+14 bp C-to-T and C-terminal GAG deletion, respectively), but not the French familial chondrocalcinosis kindred 143-bp T-to-C mutation, increased reticulocyte ANKH transcription/ANKH translation in vitro.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1587,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Transfection of complementary DNA for both the wild-type ANKH and the -4-bp ANKH protein variant promoted increased extracellular PPi in [MS] CH-8 [ME] cells, but unexpectedly, these ANKH mutants had divergent effects on the expression of extracellular PPi and the chondrocyte hypertrophy marker, type X collagen.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "1",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "ef61f56aaa50663d0a15909bbb3964b8",
+        "original": {
+         "start": 1714,
+         "end": 1718,
+         "text": "CH-8",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "CH-8",
+       "locations": [
+        {
+         "offset": 1729,
+         "length": 4
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1901,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "CONCLUSION: A subset of sporadic chondrocalcinosis appears to be heritable via a -4-bp G-to-A ANKH 5'-UTR transition that up-regulates expression of ANKH and extracellular PPi in chondrocyte cells.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 2099,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Distinct ANKH mutations associated with heritable chondrocalcinosis may promote disease by divergent effects on extracellular PPi and chondrocyte hypertrophy, which is likely to mediate differences in the clinical phenotypes and severity of the disease.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    }
+   ],
+   "annotations": [],
+   "relations": []
+  },
+  {
+   "bioctype": "BioCDocument",
+   "id": "25277705",
+   "infons": {},
+   "passages": [
+    {
+     "bioctype": "BioCPassage",
+     "offset": 0,
+     "infons": {
+      "id": 0,
+      "type": "title"
+     },
+     "text": "Leukemia inhibitory factor protects the lung during respiratory syncytial viral infection.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 91,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "BACKGROUND: Respiratory syncytial virus (RSV) infects the lung epithelium where it stimulates the production of numerous host cytokines that are associated with disease burden and acute lung injury.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 290,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Characterizing the host cytokine response to RSV infection, the regulation of host cytokines and the impact of neutralizing an RSV-inducible cytokine during infection were undertaken in this study.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 488,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "METHODS: [MS] A549 [ME], primary human small airway epithelial (SAE) cells and wild-type, TIR-domain-containing adapter-inducing interferon-b (Trif) and mitochondrial antiviral-signaling protein (Mavs) knockout (KO) mice were infected with RSV and cytokine responses were investigated by ELISA, multiplex analysis and qPCR.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "0",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "5fae67041227cb607db1e424b2f0f4c9",
+        "original": {
+         "start": 497,
+         "end": 501,
+         "text": "A549",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "A549",
+       "locations": [
+        {
+         "offset": 502,
+         "length": 4
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 812,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Neutralizing anti-leukemia inhibitory factor (LIF) IgG or control IgG was administered to a group of wild-type animals prior to RSV infection.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 955,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "RESULTS AND DISCUSSION: RSV-infected [MS] A549 [ME] and [MS] SAE [ME] cells release a network of cytokines, including newly identified RSV-inducible cytokines LIF, migration inhibitory factor (MIF), stem cell factor (SCF), CCL27, CXCL12 and stem cell growth factor beta (SCGF-b).",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "1",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "605616f80db56a81e022f77e6e84b910",
+        "original": {
+         "start": 982,
+         "end": 986,
+         "text": "A549",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "A549",
+       "locations": [
+        {
+         "offset": 997,
+         "length": 4
+        }
+       ]
+      },
+      {
+       "id": "2",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "238f2e16cf0b3ae07c548a396465e48e",
+        "original": {
+         "start": 991,
+         "end": 994,
+         "text": "SAE",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "SAE",
+       "locations": [
+        {
+         "offset": 1016,
+         "length": 3
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1235,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "These RSV-inducible cytokines were also observed in the airways of mice during an infection.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1328,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "To identify the regulation of RSV inducible cytokines, Mavs and Trif deficient animals were infected with RSV.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1439,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "In vivo induction of airway IL-1b, IL-4, IL-5, IL-6, IL-12(p40), IFN-g, CCL2, CCL5, CCL3, CXCL1, IP-10/CXCL10, IL-22, MIG/CXCL9 and MIF were dependent on Mavs expression in mice.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1618,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Loss of Trif expression in mice altered the RSV induction of IL-1b, IL-5, CXCL12, MIF, LIF, CXCL12 and IFN-g. Silencing of retinoic acid-inducible gene-1 (RIG-I) expression in [MS] A549 [ME] cells had a greater impact on RSV-inducible cytokines than melanoma differentiation-associated protein 5 (MDA5) and laboratory of genetics and physiology 2 (LGP2), and Trif expression.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "3",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "c99f1fa471756110e45226a4e9882a7a",
+        "original": {
+         "start": 1764,
+         "end": 1768,
+         "text": "A549",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "A549",
+       "locations": [
+        {
+         "offset": 1799,
+         "length": 4
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1994,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "To evaluate the role of LIF in the airways during RSV infection, animals were treated with neutralizing anti-LIF IgG, which enhanced RSV pathology observed with increased airspace protein content, apoptosis and airway hyperresponsiveness compared to control IgG treatment.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 2267,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "CONCLUSIONS: RSV infection in the epithelium induces a network of immune factors to counter infection, primarily in a RIG-I dependent manner.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 2409,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Expression of LIF protects the lung from lung injury and enhanced pathology during RSV infection.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    }
+   ],
+   "annotations": [],
+   "relations": []
+  },
+  {
+   "bioctype": "BioCDocument",
+   "id": "27798239",
+   "infons": {},
+   "passages": [
+    {
+     "bioctype": "BioCPassage",
+     "offset": 0,
+     "infons": {
+      "id": 0,
+      "type": "title"
+     },
+     "text": "Phosphatidylinositol 4-kinase IIb negatively regulates invadopodia formation and suppresses an invasive cellular phenotype.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 124,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "The type II phosphatidylinositol 4-kinase (PI4KII) enzymes synthesize the lipid phosphatidylinositol 4-phosphate (PI(4)P), which has been detected at the Golgi complex and endosomal compartments and recruits clathrin adaptors.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 351,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Despite common mechanistic similarities between the isoforms, the extent of their redundancy is unclear.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 456,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "We found that depletion of PI4KIIa and PI4KIIb using small interfering RNA led to actin remodeling.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 556,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Depletion of PI4KIIb also induced the formation of invadopodia containing membrane type I matrix metalloproteinase (MT1-MMP).",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 682,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Depletion of PI4KII isoforms also differentially affected trans-Golgi network (TGN) pools of PI(4)P and post-TGN traffic.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 804,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "PI4KIIb depletion caused increased MT1-MMP trafficking to invasive structures at the plasma membrane and was accompanied by reduced colocalization of MT1-MMP with membranes containing the endosomal markers Rab5 and Rab7 but increased localization with the exocytic Rab8.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1075,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Depletion of PI4KIIb was sufficient to confer an aggressive invasive phenotype on minimally invasive [MS] HeLa [ME] and [MS] MCF-7 [ME] cell lines.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "0",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "f73f79461babedc39e20c1140f6d66e0",
+        "original": {
+         "start": 1176,
+         "end": 1180,
+         "text": "HeLa",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "HeLa",
+       "locations": [
+        {
+         "offset": 1181,
+         "length": 4
+        }
+       ]
+      },
+      {
+       "id": "1",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "8380b229663e41cc3e9f21eb391ebf42",
+        "original": {
+         "start": 1185,
+         "end": 1190,
+         "text": "MCF-7",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "MCF-7",
+       "locations": [
+        {
+         "offset": 1200,
+         "length": 5
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1223,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Mining oncogenomic databases revealed that loss of the PI4K2B allele and underexpression of PI4KIIb mRNA are associated with human cancers.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1363,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "This finding supports the cell data and suggests that PI4KIIb may be a clinically significant suppressor of invasion.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1481,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "We propose that PI4KIIb synthesizes a pool of PI(4)P that maintains MT1-MMP traffic in the degradative pathway and suppresses the formation of invadopodia.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    }
+   ],
+   "annotations": [],
+   "relations": []
+  },
+  {
+   "bioctype": "BioCDocument",
+   "id": "28481876",
+   "infons": {},
+   "passages": [
+    {
+     "bioctype": "BioCPassage",
+     "offset": 0,
+     "infons": {
+      "id": 0,
+      "type": "title"
+     },
+     "text": "Oncogenic activity of amplified miniature chromosome maintenance 8 in human malignancies.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 90,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Miniature chromosome maintenance (MCM) proteins play critical roles in DNA replication licensing, initiation and elongation.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 215,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "MCM8, one of the MCM proteins playing a critical role in DNA repairing and recombination, was found to have overexpression and increased DNA copy number in a variety of human malignancies.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 404,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "The gain of MCM8 is associated with aggressive clinical features of several human cancers.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 495,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Increased expression of MCM8 in prostate cancer is associated with cancer recurrence.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 581,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Forced expression of MCM8 in [MS] RWPE1 [ME] cells, the immortalized but non-transformed prostate epithelial cell line, exhibited fast cell growth and transformation, while knock down of MCM8 in [MS] PC3 [ME], [MS] DU145 [ME] and [MS] LNCaP [ME] cells induced cell growth arrest, and decreased tumour volumes and mortality of severe combined immunodeficiency mice xenografted with [MS] PC3 [ME] and [MS] DU145 [ME] cells.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "0",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "75d184e275ffd72fc7d50f4a744f0b60",
+        "original": {
+         "start": 610,
+         "end": 615,
+         "text": "RWPE1",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "RWPE1",
+       "locations": [
+        {
+         "offset": 615,
+         "length": 5
+        }
+       ]
+      },
+      {
+       "id": "1",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "c7757a86d55195fc9fe871b1590d9a70",
+        "original": {
+         "start": 766,
+         "end": 769,
+         "text": "PC3",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "PC3",
+       "locations": [
+        {
+         "offset": 781,
+         "length": 3
+        }
+       ]
+      },
+      {
+       "id": "2",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "6c881329bb42f8b9659589ce6ab037ec",
+        "original": {
+         "start": 771,
+         "end": 776,
+         "text": "DU145",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "DU145",
+       "locations": [
+        {
+         "offset": 796,
+         "length": 5
+        }
+       ]
+      },
+      {
+       "id": "3",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "45949c1e5ffc3731e1750003ad7a5138",
+        "original": {
+         "start": 781,
+         "end": 786,
+         "text": "LNCaP",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "LNCaP",
+       "locations": [
+        {
+         "offset": 816,
+         "length": 5
+        }
+       ]
+      },
+      {
+       "id": "4",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "372773e2c85cd6d4ca9cc4c738c064d5",
+        "original": {
+         "start": 922,
+         "end": 925,
+         "text": "PC3",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "PC3",
+       "locations": [
+        {
+         "offset": 967,
+         "length": 3
+        }
+       ]
+      },
+      {
+       "id": "5",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "55f34aedae95f944050548e804c7886a",
+        "original": {
+         "start": 930,
+         "end": 935,
+         "text": "DU145",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "DU145",
+       "locations": [
+        {
+         "offset": 985,
+         "length": 5
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1003,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "MCM8 bound cyclin D1 and activated Rb protein phosphorylation by cyclin-dependent kinase 4 in vitro and in vivo.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1116,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "The cyclin D1/MCM8 interaction is required for Rb phosphorylation and S-phase entry in cancer cells.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1217,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "As a result, our study showed that copy number increase and overexpression of MCM8 may play critical roles in human cancer development.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    }
+   ],
+   "annotations": [],
+   "relations": []
+  },
+  {
+   "bioctype": "BioCDocument",
+   "id": "28684635",
+   "infons": {},
+   "passages": [
+    {
+     "bioctype": "BioCPassage",
+     "offset": 0,
+     "infons": {
+      "id": 0,
+      "type": "title"
+     },
+     "text": "A Type 2 Diabetes-Associated Functional Regulatory Variant in a Pancreatic Islet Enhancer at the ADCY5 Locus.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 110,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Molecular mechanisms remain unknown for most type 2 diabetes genome-wide association study identified loci.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 218,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Variants associated with type 2 diabetes and fasting glucose levels reside in introns of ADCY5, a gene that encodes adenylate cyclase 5.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 355,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Adenylate cyclase 5 catalyzes the production of cyclic AMP, which is a second messenger molecule involved in cell signaling and pancreatic b-cell insulin secretion.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 520,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "We demonstrated that type 2 diabetes risk alleles are associated with decreased ADCY5 expression in human islets and examined candidate variants for regulatory function. rs11708067 overlaps a predicted enhancer region in pancreatic islets.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 760,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "The type 2 diabetes risk rs11708067-A allele showed fewer H3K27ac ChIP-seq reads in human islets, lower transcriptional activity in reporter assays in rodent b-cells (rat [MS] 832/13 [ME] and mouse [MS] MIN6 [ME]), and increased nuclear protein binding compared with the rs11708067-G allele.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "0",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "e81a59932cf1a620c3b702efa38db0ae",
+        "original": {
+         "start": 931,
+         "end": 937,
+         "text": "832/13",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "832/13",
+       "locations": [
+        {
+         "offset": 936,
+         "length": 6
+        }
+       ]
+      },
+      {
+       "id": "1",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "579341f23cf3ffb9e83d721d7e183c1e",
+        "original": {
+         "start": 948,
+         "end": 952,
+         "text": "MIN6",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "MIN6",
+       "locations": [
+        {
+         "offset": 963,
+         "length": 4
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1052,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Homozygous deletion of the orthologous enhancer region in [MS] 832/13 [ME] cells resulted in a 64% reduction in expression level of Adcy5, but not adjacent gene Sec22a, and a 39% reduction in insulin secretion.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "2",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "6e835435f7af3192a5370b068a48841e",
+        "original": {
+         "start": 1090,
+         "end": 1096,
+         "text": "832/13",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "832/13",
+       "locations": [
+        {
+         "offset": 1115,
+         "length": 6
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1263,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Together, these data suggest that rs11708067-A risk allele contributes to type 2 diabetes by disrupting an islet enhancer, which results in reduced ADCY5 expression and impaired insulin secretion.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    }
+   ],
+   "annotations": [],
+   "relations": []
+  },
+  {
+   "bioctype": "BioCDocument",
+   "id": "21750150",
+   "infons": {},
+   "passages": [
+    {
+     "bioctype": "BioCPassage",
+     "offset": 0,
+     "infons": {
+      "id": 0,
+      "type": "title"
+     },
+     "text": "Homozygously deleted gene DACH1 regulates tumor-initiating activity of glioma cells.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 85,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Loss or reduction in function of tumor suppressor genes contributes to tumorigenesis.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 171,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Here, by allelic DNA copy number analysis using single-nucleotide polymorphism genotyping array and mass spectrometry, we report homozygous deletion in glioblastoma multiformes at chromosome 13q21, where DACH1 gene is located.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 398,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "We found decreased cell proliferation of a series of glioma cell lines by forced expression of DACH1.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 500,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "We then generated [MS] U87TR-Da [ME] glioma cells, where DACH1 expression could be activated by exposure of the cells to doxycycline.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "0",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "535e724cf05922b0c5176f60b0a8c8cc",
+        "original": {
+         "start": 518,
+         "end": 526,
+         "text": "U87TR-Da",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "U87TR-Da",
+       "locations": [
+        {
+         "offset": 523,
+         "length": 8
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 634,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Both ex vivo cellular proliferation and in vivo growth of s.c. transplanted tumors in mice are reduced in [MS] U87TR-Da [ME] cells with DACH1 expression ([MS] U87 [ME]-DACH1-high), compared with DACH1-nonexpressing [MS] U87TR-Da [ME] cells ([MS] U87 [ME]-DACH1-low).",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "1",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "8b00b1937fd69b355866f72757226731",
+        "original": {
+         "start": 730,
+         "end": 738,
+         "text": "U87TR-Da",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "U87TR-Da",
+       "locations": [
+        {
+         "offset": 745,
+         "length": 8
+        }
+       ]
+      },
+      {
+       "id": "2",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "a954f520297f16b7e57c30cc9d621103",
+        "original": {
+         "start": 768,
+         "end": 771,
+         "text": "U87",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "U87",
+       "locations": [
+        {
+         "offset": 793,
+         "length": 3
+        }
+       ]
+      },
+      {
+       "id": "3",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "571bfa007af6a6c158a2c168827d2382",
+        "original": {
+         "start": 819,
+         "end": 827,
+         "text": "U87TR-Da",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "U87TR-Da",
+       "locations": [
+        {
+         "offset": 854,
+         "length": 8
+        }
+       ]
+      },
+      {
+       "id": "4",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "6ad7da2aef99b7bcfea72246cd2608e8",
+        "original": {
+         "start": 835,
+         "end": 838,
+         "text": "U87",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "U87",
+       "locations": [
+        {
+         "offset": 880,
+         "length": 3
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 901,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "[MS] U87 [ME]-DACH1-low cells form spheroids with CD133 and Nestin expression in serum-free medium but [MS] U87 [ME]-DACH1-high cells do not.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "5",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "89e1038b8a4fb037481c6e5162b7a7a8",
+        "original": {
+         "start": 851,
+         "end": 854,
+         "text": "U87",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "U87",
+       "locations": [
+        {
+         "offset": 906,
+         "length": 3
+        }
+       ]
+      },
+      {
+       "id": "6",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "98217ca4f6f4d0271ded7a5b09eb4f9f",
+        "original": {
+         "start": 944,
+         "end": 947,
+         "text": "U87",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "U87",
+       "locations": [
+        {
+         "offset": 1009,
+         "length": 3
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1043,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Compared with spheroid-forming [MS] U87 [ME]-DACH1-low cells, adherent [MS] U87 [ME]-DACH1-high cells display lower tumorigenicity, indicating DACH1 decreases the number of tumor-initiating cells.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "7",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "05307a68847c3d3b1088fbd135ae0a77",
+        "original": {
+         "start": 1004,
+         "end": 1007,
+         "text": "U87",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "U87",
+       "locations": [
+        {
+         "offset": 1079,
+         "length": 3
+        }
+       ]
+      },
+      {
+       "id": "8",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "167e5bda61d50746274a78a03a62accb",
+        "original": {
+         "start": 1034,
+         "end": 1037,
+         "text": "U87",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "U87",
+       "locations": [
+        {
+         "offset": 1119,
+         "length": 3
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1240,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Gene expression analysis and chromatin immunoprecipitation assay reveal that fibroblast growth factor 2 (FGF2/bFGF) is transcriptionally repressed by DACH1, especially in cells cultured in serum-free medium.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1448,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Exogenous bFGF rescues spheroid-forming activity and tumorigenicity of the [MS] U87 [ME]-DACH1-high cells, suggesting that loss of DACH1 increases the number of tumor-initiating cells through transcriptional activation of bFGF.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "9",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "382ba749b23111b99a333ca89b79e0b3",
+        "original": {
+         "start": 1433,
+         "end": 1436,
+         "text": "U87",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "U87",
+       "locations": [
+        {
+         "offset": 1528,
+         "length": 3
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1676,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "These results illustrate that DACH1 is a distinctive tumor suppressor, which does not only suppress growth of tumor cells but also regulates bFGF-mediated tumor-initiating activity of glioma cells.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    }
+   ],
+   "annotations": [],
+   "relations": []
+  },
+  {
+   "bioctype": "BioCDocument",
+   "id": "16428827",
+   "infons": {},
+   "passages": [
+    {
+     "bioctype": "BioCPassage",
+     "offset": 0,
+     "infons": {
+      "id": 0,
+      "type": "title"
+     },
+     "text": "Daidzein activates choline acetyltransferase from [MS] MC-IXC [ME] cells and improves drug-induced amnesia.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "0",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "42b1dcc533da8f4983a7b9fbde543799",
+        "original": {
+         "start": 50,
+         "end": 56,
+         "text": "MC-IXC",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "MC-IXC",
+       "locations": [
+        {
+         "offset": 55,
+         "length": 6
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 108,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "The choline acetyltransferase (ChAT) activator, which enhances cholinergic transmission via an augmentation of the enzymatic production of acetylcholine (ACh), is an important factor in the treatment of Alzheimer's disease (AD).",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 337,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Methanolic extracts from Pueraria thunbergiana exhibited an activation effect (46%) on ChAT in vitro.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 439,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Via the sequential isolation of Pueraria thunbergiana, the active component was ultimately identified as daidzein (4',7-dihydroxy-isoflavone).",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 582,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "In order to investigate the effects of daidzein from Pueraria thunbergiana on scopolamine-induced impairments of learning and memory, we conducted a series of in vivo tests.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 756,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Administration of daidzein (4.5 mg/kg body weight) to mice was shown significantly to reverse scopolamine-induced amnesia, according to the results of a Y-maze test.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 922,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Injections of scopolamine into mice resulted in impaired performance on Y-maze tests (a 37% decreases in alternation behavior).",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1050,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "By way of contrast, mice treated with daidzein prior to the scopolamine injections were noticeably protected from this performance impairment (an approximately 12%-21% decrease in alternation behavior).",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1253,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "These results indicate that daidzein might play a role in acetylcholine biosynthesis as a ChAT activator, and that it also ameliorates scopolamine-induced amnesia.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    }
+   ],
+   "annotations": [],
+   "relations": []
+  },
+  {
+   "bioctype": "BioCDocument",
+   "id": "17879945",
+   "infons": {},
+   "passages": [
+    {
+     "bioctype": "BioCPassage",
+     "offset": 0,
+     "infons": {
+      "id": 0,
+      "type": "title"
+     },
+     "text": "Estrogen prevents cholesteryl ester accumulation in macrophages induced by the HIV protease inhibitor ritonavir.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 113,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Individuals with HIV can now live long lives with drug therapy that often includes protease inhibitors such as ritonavir.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 235,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Many patients, however, develop negative long-term side effects such as premature atherosclerosis.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 334,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "We have previously demonstrated that ritonavir treatment increases atherosclerotic lesion formation in male mice to a greater extent than in female mice.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 488,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Furthermore, peripheral blood monocytes isolated from ritonavir-treated females had less cholesteryl ester accumulation.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 609,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "In the present study, we have investigated the molecular mechanisms by which female hormones influence cholesterol metabolism in macrophages in response to the HIV protease inhibitor ritonavir.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 803,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "We have utilized the human monocyte cell line, [MS] THP-1 [ME] as a model to address this question.",
+     "sentences": [],
+     "annotations": [
+      {
+       "id": "0",
+       "infons": {
+        "type": "cell_line",
+        "identifier": "0",
+        "foreign": false,
+        "hexdigest": "2deba737ca880de32af9d2f917019679",
+        "original": {
+         "start": 850,
+         "end": 855,
+         "text": "THP-1",
+         "entity_type": "CellLine",
+         "identifiers": -1,
+         "location": null
+        }
+       },
+       "text": "THP-1",
+       "locations": [
+        {
+         "offset": 855,
+         "length": 5
+        }
+       ]
+      }
+     ],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 903,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Briefly, cells were differentiated for 72 h with 100 nM PMA to obtain a macrophage-like phenotype in the presence or absence of 1 nM 17beta-estradiol (E2), 100 nM progesterone or vehicle (0.01% ethanol).",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1107,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Cells were then treated with 30 ng/ml ritonavir or vehicle in the presence of aggregated LDL for 24 h. Cell extracts were harvested, and lipid or total RNA was isolated.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1277,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "E2 decreased the accumulation of cholesteryl esters in macrophages following ritonavir treatment.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1375,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Ritonavir increased the expression of the scavenger receptor, CD36 mRNA, responsible for the uptake of LDL.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1483,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Additionally, ritonavir treatment selectively increased the relative levels of PPARgamma mRNA, a transcription factor responsible for the regulation of CD36 mRNA expression.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1657,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "Treatment with E2, however, failed to prevent these increases at the mRNA level.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1738,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "E2 did, however, significantly suppress CD36 protein levels as measured by fluorescent immunocytochemistry.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    },
+    {
+     "bioctype": "BioCPassage",
+     "offset": 1846,
+     "infons": {
+      "id": 1,
+      "type": "abstract"
+     },
+     "text": "This data suggests that E2 modifies the expression of CD36 at the level of protein expression in monocyte-derived macrophages resulting in reduced cholesteryl ester accumulation following ritonavir treatment.",
+     "sentences": [],
+     "annotations": [],
+     "relations": []
+    }
+   ],
+   "annotations": [],
+   "relations": []
+  }
+ ]
+}
